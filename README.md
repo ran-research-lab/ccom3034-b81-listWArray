@@ -1,8 +1,8 @@
 ### Lab 3 - List ADT implemented with static array
 
-You are given an implementation of the integer list ADT using static array and client. 
+You are given an implementation of the integer list ADT using static array and a client. It is all in the `listAll.cpp` source code file. 
 
-Complete the implementation of the following member functions:
+Your task is to complete the implementation of the following member functions:
 
 1. **void elimOdds()**: removes the odd integers from the list. For example if L contains  `(5, 23, 10, 17, 8)`, after calling <code>L.elimOdds()</code> the content of L will be `(10, 8)`. Your algorithm should be worst case *O(n)* where *n* is the length of the list. Honor points if you can design an *in-place* algorithm.
 
