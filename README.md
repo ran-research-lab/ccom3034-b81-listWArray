@@ -1,6 +1,10 @@
 ### Lab 3 - List ADT implemented with static array
 
-You are given an implementation of the integer list ADT using static array and a client. It is all in the `listAll.cpp` source code file. 
+You are given an implementation of the integer list ADT using static array and a client. It is all in the `listAll.cpp` source code file.  You may download this repository using 
+
+```
+git clone https://github.com/ran-research-lab/ccom3034-b81-listWArray
+```
 
 Your task is to complete the implementation of the following member functions:
 
@@ -27,5 +31,7 @@ The provided client takes care of asking the user for a command and then invokin
 * `r`: reverse the list.
 * `m`: print the mode of the list.
 * `q`: quit the client program.
+
+A `Makefile` is provided so that you may compile the program by simply typing `make` in the linux command line.
 
 Please include the name of the programmers at the beginning of the file. Also provide comments before each of the functions. Submit your program through vpl.ccom.uprrp.edu using the instructions that Dr. Arce will provide on September 24, 2018.
