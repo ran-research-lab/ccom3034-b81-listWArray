@@ -1,6 +1,6 @@
+### Lab 3 - List ADT implemented with static array
+
 You are given an implementation of the integer list ADT using static array and client. 
-
-
 
 Complete the implementation of the following member functions:
 
@@ -28,4 +28,4 @@ The provided client takes care of asking the user for a command and then invokin
 * `m`: print the mode of the list.
 * `q`: quit the client program.
 
-Please include the name of the programmers at the beginning of the file. Also provide comments before each of the functions. Submit your program through vpl.ccom.uprrp.edu using the instructions that Dr. Arce will provide. 
+Please include the name of the programmers at the beginning of the file. Also provide comments before each of the functions. Submit your program through vpl.ccom.uprrp.edu using the instructions that Dr. Arce will provide on September 24, 2018.
