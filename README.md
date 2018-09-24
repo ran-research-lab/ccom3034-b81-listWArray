@@ -12,7 +12,7 @@ Your task is to complete the implementation of the following member functions:
 
 2. **void reverse()**: reverses the list in place For example if `L` contains  `(1, 2, 3, 4)`,  calling `L.reverse()` will change the list to `(4, 3, 2, 1)`. Your algorithm should be **in-place**. It should be *O(n)* in the worst case. 
 
-3. **int mode() const** that returns the *mode* of the list, i.e. the most repeated element. You may assume that the list contains only positive numbers so if there is no mode, the member function will return -1. Your algorithm should be *O(n)* in the worst case. 
+3. **int mode() const** that returns the *mode* of the list, i.e. the most repeated element. You may assume that the list contains only positive numbers in the range of 1 to 1000. If there is no mode, the member function will return -1. Your algorithm should be *O(n)* in the worst case. 
 
     Examples:
 
